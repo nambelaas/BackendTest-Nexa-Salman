@@ -1,4 +1,4 @@
-Panduan project rest api expressjs
+# Panduan project rest api expressjs
 
 - Menjalankan npm run install
 - Mengisi file env
@@ -6,7 +6,7 @@ Panduan project rest api expressjs
 - Menjalankan npm run startdev untuk menjalankan project
 - Sedikit catatan dalam menjalankan docker build perlu melakukan pengecekan kesamaan port terlebih dahulu
 
-Catatan pengerjaan
+# Catatan pengerjaan
 
 - Selama pengerjaan menggunakan table dari database local dikarenakan db yg diberikan sulit untuk diconnect, oleh karena itu semua data di test dari local
 - untuk store procedure & view sql dicantumkan di repo ini
